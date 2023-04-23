@@ -7,7 +7,7 @@ header{
     background-color: black;
     padding: 0.3%;
     color: #fff;
-    font-size: 45px;
+    font-size: 30px;
     margin-bottom: 50px;
     
 }
@@ -19,7 +19,7 @@ header{
     margin: 0 auto;
     margin-top: 50px;
     display: inline-block;
-    margin: 20px;
+    margin: 32px;
 }
 
 .card{
@@ -55,9 +55,9 @@ header{
 img{
     border-radius: 8px;
 }
-h1{
+/*h1{
     text-align: center;
-}
+}*/
 
 .boton{
     background-color: black;
