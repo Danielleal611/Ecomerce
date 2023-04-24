@@ -5,7 +5,8 @@ body{
 }
 header{
     background-color: black;
-    padding: 0.3%;
+    padding: 20px;
+    padding-top: 35px;
     color: #fff;
     font-size: 30px;
     margin-bottom: 50px;
@@ -51,8 +52,7 @@ header{
 .container:hover > .back{
     transform: rotateY(0deg);
 }
-
-img{
+.pincel{
     border-radius: 8px;
 }
 /*h1{
