@@ -33,6 +33,7 @@ header{
     padding: 16px;
     border-radius: 16px;
     text-align: center;
+    cursor: pointer;
 }
 
 .front{
